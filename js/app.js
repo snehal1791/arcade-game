@@ -100,7 +100,7 @@ new Enemy(-100,60,100),
 new Enemy(-300,60,80),
 new Enemy(-300,150,150),
 new Enemy(-100,225,200),
-new Enemy(-200,220,30)
+new Enemy(-200,220,80)
 ];
 
 var player = new Player();
