@@ -5,7 +5,7 @@
 _Currently the score board has not yet been implemented so the game runs infinite times._
 
 Run the Game:
-    -[Play Here](http://snehal1791.github.io/arcade-game/)
+    - [Play Here](http://snehal1791.github.io/arcade-game/)
 
 Controls:
-    -Use keyborad's Arrow Keys. &larr;
+    - Use keyborad's Arrow Keys **&larr; &uarr; &rarr; &darr;**
